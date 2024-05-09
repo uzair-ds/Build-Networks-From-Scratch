@@ -17,4 +17,7 @@ In this repository, we've implemented the Transformer architecture from scratch.
 
 - **PyTorch Implementation:** Our code is written in PyTorch, a popular deep learning framework, making it accessible for those familiar with PyTorch.
 
+## Lenet CNN Architure Implementation Using MNIST
+## Softmax Classifier Using MNIST 
+
 
